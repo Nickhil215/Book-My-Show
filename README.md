@@ -158,6 +158,11 @@ http://localhost:9093/tickets/cancel_ticket?Id=3
 
 
 ## Screenshots
+
+![Book my show schema](https://user-images.githubusercontent.com/105160327/217440081-c92f8e89-2702-4ab5-8a08-f0718e713cbc.jpg)
+
+THIS IS SCHEMA FOR THIS BOOK MY SHOW APPLICATION 
+
 ![Required DTOs](https://user-images.githubusercontent.com/105160327/217212094-6cb04843-b39d-4c68-bf13-8da9e3bd24a7.jpg)
 These are required Dto's (Data Transfer Object) those DTOs are used to Transfer Data from input to Repository (Database)
 
